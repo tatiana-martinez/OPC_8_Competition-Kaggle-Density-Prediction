@@ -8,7 +8,7 @@ probatus
 seaborn
 xgboost
 RandomForestRegressor
-LogisticRegression
+LinearRegression
 StandardScaler
 RobustScaler
 GridSearchCV
