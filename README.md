@@ -11,11 +11,15 @@ La compétition s'intitule  **GoDaddy – Microbusiness Density Forecasting**.
 ## Objectif de la compétition
 L'objectif de cette compétition est de soumettre ses prédictions de densité des microentreprises aux USA par comté pour  les périodes 01-11-2022 au 01-06-2023. 
 
-La contrainte est de minimiser la métrique **SMAPE** (**S**ymmetric **M**ean **A**bsolute **P**ercentage **E**rror). 
-
 Il est possible de s'appuyer sur les kernels de la compétition sans oublier de le(s) citer.
 
 Le kernel suivant a été en partie suivi pour réaliser le projet : [better-xgb-baseline](https://www.kaggle.com/code/titericz/better-xgb-baseline)
+
+## Contraintes
+La contrainte de la compétition est de minimiser la métrique **SMAPE** (**S**ymmetric **M**ean **A**bsolute **P**ercentage **E**rror). 
+
+La contrainte d'OPC est de fournir du code au format **PEP8**.
+
 
 ## Les étapes du projet :
 - [x] nettoyage de données
@@ -44,5 +48,6 @@ OPC_8_Competition-Kaggle-Prediction
 ```
 
 Le dossier `data/` contient les 4 fichiers issus de la compétition.
+
 Le dossier `main/`  contient le notebook du projet pour la compétition.
 
