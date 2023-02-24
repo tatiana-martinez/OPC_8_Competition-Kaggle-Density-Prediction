@@ -2,6 +2,10 @@ numpy
 pandas
 matplotlib
 plotly-geo
+plotly.express
+plotly.figure_factory
+json
+urlopen
 pyshp
 geopandas
 probatus
